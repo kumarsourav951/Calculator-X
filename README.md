@@ -1,0 +1,2 @@
+# Calculator-X
+A Simple Calculator with rich features for daily use.  The Calculator X provides simple and advanced mathematical functions for day-to-day use. It is packed with multiple features like smart calculations, number separator, answer precision, etc. Calculator X comes with a Light and Dark Theme and can also adapt to a system theme if configured. Its design is inspired by Material Design. It is a very efficient calculator with advanced error handling. It is designed to handle errors intelligently.
