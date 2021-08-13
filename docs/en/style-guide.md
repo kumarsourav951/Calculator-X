@@ -6,7 +6,7 @@ code look like the surrounding code_.
 
 ### Kotlin
 
-Most of the code of **CalculatorX** is written in Kotlin. If you are not familiar with Kotlin, please familiarize yourself before attempting to modify the code. There are plenty of good, free resources out there. Some of them are listed below
+Most of the code of **Calculator X** is written in Kotlin. If you are not familiar with Kotlin, please familiarize yourself before attempting to modify the code. There are plenty of good, free resources out there. Some of them are listed below
 
 - [Kotlin](https://kotlinlang.org/docs/home.html)
 - [Kotlin for Android](https://developer.android.com/kotlin/campaign/learn)
