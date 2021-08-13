@@ -53,7 +53,7 @@ It is very efficient battery wise. It uses about 20% less battery compared to a 
 ## Donation 💰
 This app is totally free with no ads whatsoever. If you like this project and want to support me, please consider donating to this project.
 
-[![Support](https://img.shields.io/badge/-Support-gray?style=for-the-badge&logo=Paypal)](https://paypal.me/kumarsourav951)
+[![Support](https://img.shields.io/badge/-Support-gray?style=for-the-badge&logo=Paypal)](https://paypal.me/Sourav951?locale.x=en_GB)
 
 ## Download ⬇️
 Download the latest Version of the app from the play store.  
